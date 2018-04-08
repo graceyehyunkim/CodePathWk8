@@ -45,4 +45,4 @@ Vulnerability #2: CSRF
 
 ## Notes
 
-CSRF has not been demonstrated in my class as of now. Red's second vulnerability is concluded upon process of elimination.
+Red's second vulnerability is concluded upon process of elimination.
