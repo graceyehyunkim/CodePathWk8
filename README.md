@@ -29,6 +29,7 @@ Vulnerability #2: SQLi
 Vulnerability #1: Username Enumeration
 
 ![Alt Text](https://github.com/graceyehyunkim/CodePathWk8/blob/master/enumeration_g.gif)
+
 Vulnerability #2: XSS
 
 ![Alt Text](https://github.com/graceyehyunkim/CodePathWk8/blob/master/xss_g.gif)
@@ -38,11 +39,10 @@ Vulnerability #2: XSS
 Vulnerability #1: IDOR
 
 ![Alt Text](https://github.com/graceyehyunkim/CodePathWk8/blob/master/idor_r.gif)
+
 Vulnerability #2: CSRF
 
 
 ## Notes
-
-Describe any challenges encountered while doing the work
 
 CSRF has not been demonstrated in my class as of now. Red's second vulnerability is concluded upon process of elimination.
