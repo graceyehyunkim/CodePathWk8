@@ -17,21 +17,26 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: Session Fixation
+
 ![Alt Text](https://github.com/graceyehyunkim/CodePathWk8/blob/master/hijacking_b.gif)
 
 Vulnerability #2: SQLi
+
 ![Alt Text](https://github.com/graceyehyunkim/CodePathWk8/blob/master/sqli_b.gif)
 
 ## Green
 
 Vulnerability #1: Username Enumeration
+
 ![Alt Text](https://github.com/graceyehyunkim/CodePathWk8/blob/master/enumeration_g.gif)
 Vulnerability #2: XSS
+
 ![Alt Text](https://github.com/graceyehyunkim/CodePathWk8/blob/master/xss_g.gif)
 
 ## Red
 
 Vulnerability #1: IDOR
+
 ![Alt Text](https://github.com/graceyehyunkim/CodePathWk8/blob/master/idor_r.gif)
 Vulnerability #2: CSRF
 
